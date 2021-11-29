@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(59, 59, 59);
+}
+
+.title,
+.text,
+.list,
+.heading {
+    text-align: center;
+    font-family: "Helvetica",sans-serif;
+}
+
+.img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    color: rgb(14, 206, 190);
+    font-size: 80px;
+}
+
+.heading {
+    color: red;
+    font-size: 40px;
+}
+
+.text,
+.list {
+    color: rgb(175, 175, 175);
+    font-size: 30px;
+}
+
+.list {
+    list-style-position: inside;
+    
+}
+
+.home {
+    font-size: 20px;
+    color: rgb(14, 206, 190);
+    font-family: "Helvetica",sans-serif;
+}
