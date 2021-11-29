@@ -1,0 +1,18 @@
+.title, 
+.link {
+    text-align: center;
+}
+
+.link{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+}
+
+.body {
+    background-color: rgb(59, 59, 59);
+}
+
+.title {
+    color: rgb(14, 206, 190);
+    font-size: 80px;
+}
